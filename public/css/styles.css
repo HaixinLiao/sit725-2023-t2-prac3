@@ -1,0 +1,16 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 20px;
+}
+
+.div {
+    text-align: center;
+}
+
+#div1, #div2 {
+    float:left
+}
